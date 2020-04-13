@@ -1,5 +1,7 @@
 # Write your code here
-
-while 
-count -= 1
+new_year = 10
+while new_year >= 1 do
+  puts new_year
+new_year -= 1
 end
+puts "Happy New Year!"
